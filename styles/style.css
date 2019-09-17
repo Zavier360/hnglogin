@@ -70,7 +70,7 @@ a {
 }
 
 .form-container form {
-  background: white;
+  background:rgb(0, 238, 255);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
